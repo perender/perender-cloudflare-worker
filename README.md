@@ -45,7 +45,7 @@ Click on <b>Edit code</b>
 3. Click the <b>Add variables</b> button (C)
 ![image](https://github.com/perender/perender-cloudflare-worker/assets/155614699/935dcd7e-6d17-4f4b-b285-2c06a2b7f65b)
 
-# Step 10. (final)
+# Step 10.
 1. Set the name of your variable as <b>PERENDER_TOKEN</b> (A)
 2. In the <b>variable value</b>, paste the <b>PERENDER TOKEN</b>, which you can obtain from the dashboard (https://dashboard.perender.com/)
 3. Click the <b>Save and Deploy</b> button (C)
