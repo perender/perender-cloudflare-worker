@@ -56,7 +56,6 @@ const IGNORE_EXTENSIONS = [
   ".rar",
   ".exe",
   ".wmv",
-  ".doc",
   ".avi",
   ".ppt",
   ".mpg",
