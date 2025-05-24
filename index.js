@@ -34,7 +34,13 @@ const BOT_AGENTS = [
   "chrome-lighthouse",
   "telegrambot",
   "integration-test", // Integration testing
-  "google-inspectiontool"
+  "google-inspectiontool",
+  "Perplexity",
+  "OAI-SearchBot",
+  "ChatGPT",
+  "GPTBot",
+  "ClaudeBot",
+  "Amazonbot"
 ];
 
 const IGNORE_EXTENSIONS = [
