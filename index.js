@@ -85,6 +85,7 @@ const IGNORE_EXTENSIONS = [
   ".ttf",
   ".svg",
   ".webmanifest",
+  ".webp"
 ];
 
 //Hooks into the request, and changes origin if needed
